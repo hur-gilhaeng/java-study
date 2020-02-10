@@ -1,0 +1,9 @@
+﻿C:\Windows\System32\drivers\etc
+루프백 주소 수정 위치
+
+cd C:\Users\user\Desktop\더존-비트 교육\eclipse-workspace\network\bin
+java test.TCPClient
+
+
+cd C:\Users\user\Desktop\더존-비트 교육\eclipse-workspace\network\bin
+java echo.EchoClient

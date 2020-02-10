@@ -40,5 +40,6 @@
 		<module>java-pratice03</module>
 		<module>java-pratice04</module>
 		<module>java-pratice05</module>
+		<module>network</module>
 	</modules>
 </project>
