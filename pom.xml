@@ -41,5 +41,6 @@
 		<module>java-pratice04</module>
 		<module>java-pratice05</module>
 		<module>network</module>
+		<module>advancedjava-final</module>
 	</modules>
 </project>
