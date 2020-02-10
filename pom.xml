@@ -35,12 +35,13 @@
 	<modules>
 		<module>chapter03</module>
 		<module>chapter04</module>
-		<module>java-pratice01</module>
-		<module>java-pratice02</module>
-		<module>java-pratice03</module>
-		<module>java-pratice04</module>
-		<module>java-pratice05</module>
+		<module>java-practice01</module>
+		<module>java-practice02</module>
+		<module>java-practice03</module>
+		<module>java-practice04</module>
+		<module>java-practice05</module>
 		<module>network</module>
 		<module>advancedjava-final</module>
+		<module>helloworld</module>
 	</modules>
 </project>
